@@ -18,32 +18,6 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv9.png" tvg-name="TV9"  group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 
-#EXTINF:0,Updated:8/15-Cartoon Network
+#EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:0,Cartoon Network
-http://84.232.5.115/liveedge3/cartoon.stream/playlist.m3u8
-
-#EXTINF:-1, Bein Sports 1
-http://188.165.225.63:8080/bein1.m3u8
-
-#EXTINF:-1, Bein Sports 2
-http://188.165.225.63:8080/bein2.m3u8
-
-#EXTINF:-1, Bein Sports 3
-http://188.165.225.63:8080/bein3.m3u8
-
-#EXTINF:-1, Bein Sports 4
-http://188.165.225.63:8080/bein4.m3u8
-
-#EXTINF:-1, Bein Sports 5
-http://188.165.225.63:8080/bein5.m3u8
-
-#EXTINF:-1, Bein Sports 6
-http://188.165.225.63:8080/bein6.m3u8
-
-#EXTINF:-1, Bein Sports 7
-http://188.165.225.63:8080/bein7.m3u8
-
-#EXTINF:-1, Bein Sports 8
-http://188.165.225.63:8080/bein8.m3u8
