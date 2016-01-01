@@ -21,5 +21,6 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 #EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:0,Toonami Aftermath
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://img.pandawhale.com/post-2250-Toonami-Aftermath-Space-is-the-OHuo.png" tvg-name="Toonami"  group-title="Cartoon",Toonami
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+
