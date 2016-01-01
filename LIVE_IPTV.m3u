@@ -21,14 +21,32 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 #EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="astroarena.png" tvg-logo="http://www.astro.com.my/…/logoi…/ChannelLogo/Pos/801_300.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO ARENA[/I][/COLOR]
+#EXTINF:-1, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8
+
+Astro Supersport 1
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDEucGhw
+
+Astro Supersport 2
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDIucGhw
+
+Astro Supersport 3
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDMucGhw
+
+#EXTINF:-1 tvg-logo=”astro-AWANI.png” group-title=”TVMALAYSIA”,[COLOR aqua][I]ASTRO AWANI[/I][/COLOR]
+http://bit.ly/astro-AWANI
+
+#EXTINF:-1 tvg-logo=”astro-ARENA.png” group-title=”TVMALAYSIA”,[COLOR aqua][I]ASTRO ARENA[/I][/COLOR]
 http://bit.ly/astro-ARENA
 
-#EXTINF:-1 tvg-logo="astroprima.png" tvg-logo="http://www.astro.com.my/…/logoi…/ChannelLogo/Pos/105_300.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO PRIMA[/I][/COLOR]
+#EXTINF:-1 tvg-logo=”astro-PRIMA.png” group-title=”TVMALAYSIA”,[COLOR aqua][I]ASTRO PRIMA[/I][/COLOR]
 http://bit.ly/astro-PRIMA
 
-#EXTINF:-1 tvg-logo="astrowarna.png" tvg-logo="http://www.astro.com.my/…/logoi…/ChannelLogo/Pos/132_300.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO WARNA[/I][/COLOR]
+#EXTINF:-1 tvg-logo=”astro-WARNA.png” group-title=”TVMALAYSIA”,[COLOR aqua][I]ASTRO WARNA[/I][/COLOR]
 http://bit.ly/astro-WARNA
 
-#EXTINF:-1 tvg-logo="astroria.png" tvg-logo="http://www.astro.com.my/…/logoi…/ChannelLogo/Pos/104_300.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO Ria[/I][/COLOR]
-http://bit.ly/astro-RIA
+#EXTINF:-1 tvg-logo=”astro-OASIS.png” group-title=”TVMALAYSIA”,[COLOR aqua][I]ASTRO OASIS[/I][/COLOR]
+http://bit.ly/astro-OASIS
+
+#EXTINF:-1 tvg-logo=”astro-RIA.png” group-title=”TVMALAYSIA”,[COLOR aqua][I]ASTRO RIA[/I][/COLOR]
+http://www.layarku.tv/media/ria.m3u8
