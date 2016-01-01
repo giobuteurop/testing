@@ -21,48 +21,14 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 #EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:0, BeinSport-SD1
-http://sat.010e.net:8000/live/lara1/lara1/41.m3u8
+#EXTINF:-1 tvg-logo="astroarena.png" tvg-logo="http://www.astro.com.my/…/logoi…/ChannelLogo/Pos/801_300.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO ARENA[/I][/COLOR]
+http://bit.ly/astro-ARENA
 
-#EXTINF:0, BeinSport-SD2
-http://sat.010e.net:8000/live/lara1/lara1/42.m3u8
+#EXTINF:-1 tvg-logo="astroprima.png" tvg-logo="http://www.astro.com.my/…/logoi…/ChannelLogo/Pos/105_300.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO PRIMA[/I][/COLOR]
+http://bit.ly/astro-PRIMA
 
-#EXTINF:0, BeinSport-SD3
-http://sat.010e.net:8000/live/lara1/lara1/43.m3u8
+#EXTINF:-1 tvg-logo="astrowarna.png" tvg-logo="http://www.astro.com.my/…/logoi…/ChannelLogo/Pos/132_300.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO WARNA[/I][/COLOR]
+http://bit.ly/astro-WARNA
 
-#EXTINF:0, BeinSport-SD4
-http://sat.010e.net:8000/live/lara1/lara1/44.m3u8
-
-#EXTINF:0, BeinSport-SD5
-http://sat.010e.net:8000/live/lara1/lara1/45.m3u8
-
-#EXTINF:0, BeinSport-SD6
-http://sat.010e.net:8000/live/lara1/lara1/46.m3u8
-
-#EXTINF:0, BeinSport-SD7
-http://sat.010e.net:8000/live/lara1/lara1/47.m3u8
-
-#EXTINF:0, BeinSport-SD8
-http://sat.010e.net:8000/live/lara1/lara1/48.m3u8
-
-#EXTINF:0, BeinSport-SD9
-http://sat.010e.net:8000/live/lara1/lara1/49.m3u8
-
-#EXTINF:0, BeinSport-SD10
-http://sat.010e.net:8000/live/lara1/lara1/50.m3u8
-
-#EXTINF:0, BeinSport-SD11
-http://sat.010e.net:8000/live/lara1/lara1/51.m3u8
-
-#EXTINF:0, BeinSport-SD12
-http://sat.010e.net:8000/live/lara1/lara1/52.m3u8
-
-#EXTINF:0, BeinSport-SD13
-http://sat.010e.net:8000/live/lara1/lara1/53.m3u8
-
-#EXTINF:0, BeinSport-SD14
-http://sat.010e.net:8000/live/lara1/lara1/54.m3u8
-
-#EXTINF:0, BeinSport-SD15
-http://sat.010e.net:8000/live/lara1/lara1/55.m3u8
-
+#EXTINF:-1 tvg-logo="astroria.png" tvg-logo="http://www.astro.com.my/…/logoi…/ChannelLogo/Pos/104_300.png" group-title="TVMALAYSIA",[COLOR aqua][I]ASTRO Ria[/I][/COLOR]
+http://bit.ly/astro-RIA
