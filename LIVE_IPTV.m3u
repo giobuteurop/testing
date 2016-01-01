@@ -21,5 +21,5 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 #EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1,Bein Sport 1 SD
-http://iptv.star7arab.com:80/star7arab/15484547/18.ch
+#EXTINF:0, LIVERPOOL TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/121.m3u
