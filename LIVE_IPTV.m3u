@@ -18,17 +18,14 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv9.png" tvg-name="TV9"  group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 
-#EXTINF:0, Cartoon Network
+#EXTINF:0, Cartoon Network Hindi
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:0, ASTRO SUPER SPORT 1
-http://185.63.252.176/live/antenasportucl1/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 
-#EXTINF:0, ASTRO SUPER SPORT 2
-http://185.63.252.176/live/antenasportucl2/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
 
-#EXTINF:0, ASTRO SUPER SPORT 3
-http://185.63.252.176/live/antenasportucl3/playlist.m3u8
-
-#EXTINF:0, ASTRO SUPER SPORT 4
-http://185.63.252.176/live/antenasportucl4/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://180.250.29.12/jhos/beib3_3/1421536739/playlist.m3u8
