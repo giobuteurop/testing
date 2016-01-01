@@ -21,19 +21,14 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
 #EXTINF:0, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:0, Sky Sport 1
-rtmp://89.248.174.38/live/dskys1
-#EXTINF:0, Sky Sport 2
-rtmp://89.248.174.38/live/dskys2
-#EXTINF:0, Sky Sport 3
-rtmp://89.248.174.38/live/dskys3
-#EXTINF:0, Sky Sport 4
-rtmp://89.248.174.38/live/dskys4
-#EXTINF:0, Sky Sport 5
-rtmp://89.248.174.38/live/dskys5
-#EXTINF:0, Sky f1
-rtmp://89.248.174.38/live/dskysf1
-#EXTINF:0, BT Sport 1
-rtmp://89.248.174.38/live/dbt1
-#EXTINF:0, BT Sport 2
-rtmp://89.248.174.38/live/dbt2
+#EXTINF:0, ASTRO SUPER SPORT 1
+http://185.63.252.176/live/antenasportucl1/playlist.m3u8
+
+#EXTINF:0, ASTRO SUPER SPORT 2
+http://185.63.252.176/live/antenasportucl2/playlist.m3u8
+
+#EXTINF:0, ASTRO SUPER SPORT 3
+http://185.63.252.176/live/antenasportucl3/playlist.m3u8
+
+#EXTINF:0, ASTRO SUPER SPORT 4
+http://185.63.252.176/live/antenasportucl4/playlist.m3u8
