@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1"  group-title="Malaysia",TV1
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1451974369&myTokenPrefixhash=cEc8w-b3a6MSy7hPJk3z0nUk8E5iOBFfsPRBNEN6QVY=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2"  group-title="Malaysia",TV2
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1451974394&myTokenPrefixhash=yO7NUII88LY3NvhnehtMcMoYenwFe2xqlwpzlnZcxUg=
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv3.png" tvg-name="TV3"  group-title="Malaysia",TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master002.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ntv7.png" tvg-name="NTV7"  group-title="Malaysia",NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/8tv.png" tvg-name="8TV"  group-title="Malaysia",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv9.png" tvg-name="TV9"  group-title="Malaysia",TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
